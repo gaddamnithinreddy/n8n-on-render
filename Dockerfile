@@ -1,5 +1,5 @@
 # Use official n8n image
-FROM n8nio/n8n:latest-slim
+FROM n8nio/n8n:latest
 
 
 # Set environment variables
